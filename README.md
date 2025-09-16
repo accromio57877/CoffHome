@@ -1,0 +1,2 @@
+# CoffHome
+NC.FrontEnd.Project
